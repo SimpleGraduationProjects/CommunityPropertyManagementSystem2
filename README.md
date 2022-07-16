@@ -9,7 +9,7 @@
 	<img src="https://img.shields.io/badge/jdk-1.8-orange.svg"/>
     <img src="https://img.shields.io/badge/springboot-5.x-lightgrey.svg"/>
     <img src="https://img.shields.io/badge/maven-3.x-blue.svg"/>
-    <img src="https://img.shields.io/badge/jsp-5.x-yellow.svg"/>
+    <img src="https://img.shields.io/badge/html-5.x-yellow.svg"/>
 </p>
 
 ## 简介
@@ -19,11 +19,7 @@
 >
 > 提供1.远程部署/2.修改代码/3.设计文档指导/4.框架代码讲解等服务
 
->访问地址: http://localhost:8081/
 
->管理员登录账号: admin  123456
-
->用户登录账号: 20192532  123456
 
 
 ## 环境
