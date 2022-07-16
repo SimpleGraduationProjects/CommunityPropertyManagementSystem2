@@ -1,0 +1,2 @@
+# CommunityPropertyManagementSystem2
+小区物业管理系统-毕业设计
